@@ -1,0 +1,16 @@
+
+
+.loader{
+    width: 100%;
+    height: 29px;
+    background-color: rgb(135, 173, 135);
+    /* border: 1px solid black; */
+    border-radius: 100px;
+}
+/* .up-low{
+    border: 1px dotted orangered;
+    height: 30px;
+    width: 100%;
+    border-radius: 100px;
+    background-color: #ddd;
+} */
